@@ -1,4 +1,4 @@
-Password-Generator
+XKCD: Password Generator
 ===========================
 
 This is just a simple password generator that has been coded using Ruby 1.9.3
