@@ -3,7 +3,7 @@ XKCD: Password Generator
 
 This is just a simple password generator that has been coded using Ruby 1.9.3
 
-It'll generate a secure yet easy to remember password using the logic of an XKCD comic (http://xkcd.com/936/)
+It'll generate a secure yet easy to remember password using the logic of XKCD comic 936 (http://xkcd.com/936/)
 
 Hope you enjoy it, I made it for fun and not anything serious.
 
